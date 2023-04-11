@@ -1,0 +1,111 @@
+Meet 3 madafaka
+
+SDLC => software development life cycle
+also referred to as the application development life cycle
+
+definition = is a process for planning creating testing and deploying a software system.
+
+provides a sequence of activities for system designers and developers to follow
+
+it consists of a set of steps or phases in which each phase of the sdlc users the result of the previous one.
+
+it address to phases that are essential yet important to developer pplanning analysis, design and implementation.
+
+aim = to produce high quality system that meet or exceed custoner expectation. based on -> customer requirement
+
+by delivering systems that more through each clearly delivered phasem within scheduled time frames and cost estimate.
+
+Models of sdlc
+there have been many sdlc models inverted up until now:
+- waterfall
+- iterative
+- spiral
+- rapid prototyping
+- extreme programming
+- scrum
+- etc.
+
+all those models can be categoried into two terms traditional and agile. software development methodologies
+
+traditional methodologies = stricly follow well defined process/steps.
+- sequencially one by one
+- current process uses the results of previous one.
+
+agile methodologies = 
+
+
+traditional vs agile
+the traditional approach is linear all the phases of a process occur in a sequence
+- depends on predictable tools and predictable experience.
+- every project follows the same life cycle.
+
+the traditional approach is irgd and controlled
+- project planned without any scope for changing requirements
+- all requirements must be known, prepared, and fixed upfront
+
+in the methodologies
+- focus on working features instead of their number
+- change are welcome
+
+do we need to abandon the traditional one ? nope
+- it always depends on the context and conditions of our projects.
+
+
+
+Waterfall models
+the oldest and most straightforward finish one phse and then start the next
+
+it was the model to identify the different stages that make up the system devlopmeny process 
+
+its simplicity has made it a useful model for many years
+
+not really a true reflection of what happens in system development -> does not emphasize the need to iterate over the stages.
+- in the world many systems change over time
+
+the biggest drwaback of this models is that small details left incomplete can hold up the entire process.
+
+
+v-models
+this is an extension of the waterfall model
+
+it test at each stage of development
+
+
+spiral model
+the most flexible
+
+incremental model
+in this life cycle model, the system in partitioned according to areas of functionality
+
+each major functional areas is developed and delivered independently to the client
+
+for example int the bike rental system task relating to issuing a bike might be developed and delivered followed by returing a bike and then maintaining customer record.
+
+the leading agile method
+
+agile is a mideset -> way of thinking and acting
+set of values and principles
+
+agile is about:
+- short cycles
+- iterative and incremental delivery
+- falling fast
+- getting feedback
+- deliviring bussines value to customers early
+- people collaboration and interaction
+
+agile is a mindset that is all about transparency, inspection, and adaptation
+
+agile however does not gives emphasize on roles events or artifacts.
+
+agile framework
+we can work with agile a mindset using the framewirks under the agile umbrella for example scrum.
+
+other than that there are kanban xp crystal and many more
+
+
+choose one of the agile methodologies
+describe about
+- what is it?
+- why is it needed?
+- what do we need if we want to use it?

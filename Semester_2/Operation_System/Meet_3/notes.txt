@@ -1,0 +1,13 @@
+Meet 3 madafaka
+
+System calls
+
+programming interface to the services provided by the os.
+
+typically write in a high level language (c or c++)
+
+mostly accessed by programs via a high level appllication programming interface rather thann direct system calls use.
+
+not that are system call names used throughout this text are generic
+
+

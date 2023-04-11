@@ -1,0 +1,90 @@
+software engineering is an engineering dicipline that is concerned with all aspect of software production.
+
+software engineering is defined as a process of :
+- analying user requirements and then,
+- designing
+- building and
+- testing software application which will saatisfy throw requirement as well as
+- optionally maintaining
+
+why we need software engineering?
+
+once upon a time there was an event famously known as software crisis.
+
+it was in the late 1960 when many software project failed.
+
+many software became over budget.
+output was an unrealable software which is expensive to maintain.
+
+larger software was difficult and quite expensive to maintain.
+
+losts of software not able to satisfy the growing requirements of the customer.
+
+complexities of software projects increased faster compared with the ability to generate new software.
+
+all the above issues lead to software crisis.
+
+solution to the software crisis.
+
+transforming ungornized coding effort into a software engineering dicipline.
+
+these engineering models helped companies to:
+- deliver software meeting customer requirements.
+
+the late 1980's saw the widespread uses of the software engineering principles.
+in the 1980's saw the automation of software engineering process and growth of CASE Computer Aided Software Engineering.
+The 1990's have seen an increased emphasis on the management aspects of projects standard quality and process just like ISO 1901
+
+The importance of software engineering
+
+software product > updated > requirements > system analysis > system design > code design > development.
+
+Large software in our real life it's quite more compfortable to buiild a well than a house or building in the same manner, as the size of the software becomes large software engineering helps you to build software.
+
+scalability: if the software development process were based on scientific and engineering concepts, if is easier to re create new software to scale an existing one.
+
+adabtability : whenever the software process was based on scientific and engineering it is easy to re create new software with the help of software engineering.
+cost : Hardware industry has shown the skills and huge manufacturing has lower the cost of the computer and electronic hardware.
+
+Dynamic nature : always growning and adapting nature of the software. It depends on the environment in which the user works.
+
+Quality management: Offers better method of software development to provide quality software products.
+
+Relationship of software engineering with other diciplines
+
+- computer science : software engineering is labor intensive work which demand both technical and managerial control, therefore it's widely used in management science.
+- economics in this sector software engineering helps you in resource estimation and cost control. Computing system must be developed, and data should be maintained regurarly within a given budget.
+-system engineering must software is a component of a much large system. for ecample the software in an industry monitoring system or the flight software on an airplane. software engineering methods should be applied to the study of this type of system.
+
+challenges
+in safety critical areas the cost of software failure can be massive because lives are at risk. those are area such as :
+- space
+- aviation
+- nuclear power plants.
+
+increased market demands for fast turnaround time.
+
+dealing with the increased complexity of software need for new application.
+
+the diversity of software systemns should be communicating with each other.
+
+
+Software products
+
+the immediate result of the software engineering process is a software. And the wuality of the software is judged based on it's characteristic.
+
+the characteristic of any software product include features which are displayed by the products when it is installed and put in use.
+
+they are the services which are provided by the product. instead they have related to :
+- the products dynamic behavior and
+- the use made of the pricelist.
+
+example of thes attribute are:
+- efficiency
+- reliability
+- maintainly
+
+however the relative importance of these characteristic varies from one software system to another.
+
+
+

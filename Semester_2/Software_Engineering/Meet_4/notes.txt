@@ -1,0 +1,73 @@
+meet 4 madafaka
+
+Traditional methodology waterfall
+
+in general sdlc models can be categorized into two
+- traditional
+- agile
+
+relative effort for phases
+phases between feasibility study and testing
+- known as development phases.
+among all life cycle phases
+- maintanance phases consumes maximum effort
+among development phases
+- testing consumes the maximum effort
+
+characteristic
+most organizations usually define:
+- standards on the deliverable produced at the end of every phase
+- entry exit criteria for every phase.
+
+they also prescribe specific methodologies for:
+- specification
+- design
+- testing
+- projact management
+
+main goal of feasibility study: determine wheter developing the product is 
+- financially worthwhile
+- technically feasible
+
+first roughly understand what the customer wants
+- different data which would be input to the system
+- processing needed on these data
+- output data to be produced by the system
+- various constraints ont the behaviour of the system
+
+work out an overall understanding of the problem
+formulate solution strategies
+examine alternate solution strategies
+- resources required
+- cost of development and
+- development time
+
+perform a cost/benefit analysis to determine which solution is the best
+
+we may determine that none of the solutions is feasible due to:
+- high cost
+- resource constraints
+- technical reasons
+
+aim of this phases
+- understand the exact requirements of the customer
+- document them properly
+
+consist of two disctinct activities
+- requirements gathering and analysis
+- requirements spesification
+
+requirements gathering and analysis
+main goal to collect all related data from the customer
+
+how to gather the requirements 
+- usually collected from the end users through interviews and discussions
+- for example for a business accounting software
+	- interview all the accountants of the organization to find out their requirements.
+
+how to do requirements analysis?
+- analyze the collected data to clearly understand what the customer wants
+- find out any inconsistencies and incompleteness in the requirements
+- resolve all inconsistencies and incompleteness
+
+

@@ -1,0 +1,16 @@
+1. c
+2. a
+3. d
+4. e
+5. b
+
+1. program
+2. flowchart
+3. language
+4. compiled
+5. errors
+6. debugging
+7. documentation
+
+1. T
+2. blablabla fck it

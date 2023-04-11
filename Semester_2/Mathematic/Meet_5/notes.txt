@@ -1,0 +1,52 @@
+meet 5
+
+definition of function
+
+a relation is a corespondence between a first set, calleed the domain and a seccond set, called the range such that each member of the domain corresponds to at least one member of the range.
+
+functions are special relations
+
+every set of ordered pairs is a relation but every relation is not function
+
+function make up a subset of all relations.
+
+a function is a relationship between two variables such that each value 
+
+
+functional notation
+we have seen fakyu
+
+surjectife
+range = codomain
+
+injectife
+one to one (pasangannya unik)
+
+bijective
+a function is bijective (surjective and injective) if every of the codomain is mapped to by exactly one element of the domain. (that is the function is both injective and surjective)
+
+
+
+
+domain & range of a function
+find f(-1)
+-1 itu x nya terus selanjutnya hanya mengikuti garis.
+
+domain of a function
+every realation has a domain, the set of input values over which it is defined
+if the domain
+
+composite function
+
+
+piecewise-defined functions
+a piecewise-defined function is a function that is defined by two or more equations over a specified domain.
+
+odd function
+simetris terhadap (0,0) / origin
+
+even function
+simetris terhadap sumbu y
+
+inverse function
+balik x dan y

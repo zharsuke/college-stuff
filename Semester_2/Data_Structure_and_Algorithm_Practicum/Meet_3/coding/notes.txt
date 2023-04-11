@@ -1,0 +1,7 @@
+
+int max = array[0];
+
+for (int i = 1)...
+
+
+max ambil data array pada index 0 untuk jadi pembanding, lalu di loop dengan memulai pada index ke 1

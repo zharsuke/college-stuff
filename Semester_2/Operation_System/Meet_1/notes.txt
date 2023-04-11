@@ -1,0 +1,56 @@
+Introduction of Operation System
+
+os is program that acts as an intermediary between a user of a computer and the computer hardware.
+
+operating system goals:
+- execute user prorgram and make solving user problems easier.
+- make the computer system covenient to use.
+
+Computer system can be divided into four components :
+- hardware
+- os
+- application program
+- users
+
+Kind of operating system is windows, mac os, linux.
+
+What os do
+- depends on the pov
+- users want convience ease, of use and good performance.
+- Don't care about resource...
+
+definistion of os
+os is a resource allocator
+- manage all resource 
+- decide between confliting request for efficient and fair resource use.
+
+os is a control program
+- control ex program to prevent...
+
+computer startup
+bootsrap program in loaded at power up or reboot
+- typycally stored in ROM or EROM, generally known as firmware
+- init all aspect of system.
+- loads os kernel and start ex
+os from pov user and developer
+
+os developer
+create os that can easly and...
+
+computer system organization
+cpu, device controller.
+
+multiprogramming system
+The THE multiprogramming system or THE OS was a computer operating system designed by a team led by Edsger W. Dijkstra, described in monographs in 1965-66 and published in 1968.
+
+time sharing system
+In computing, time-sharing is the sharing of a computing resource among many users at the same time by means of multiprogramming and multi-tasking. Its emergence as the prominent model of computing in the 1970s represented a major technological shift in the history of computing.
+
+multi processing system
+Multiprocessing is the use of two or more central processing units within a single computer system. The term also refers to the ability of a system to support more than one processor or the ability to allocate tasks between them.
+
+EXERCISE
+
+1. Sebutkan dan jelaskan tentang langkah-langkah yang dilakukan oleh komputer saat pertama kali menyala/dijalankan
+2. Sebutkan macam operating system, pengembangnya beserta kelebihan dan kekurangannya!
+3. Sebutkan dan jelaskan jenis-jenis sistem operasi komputer!

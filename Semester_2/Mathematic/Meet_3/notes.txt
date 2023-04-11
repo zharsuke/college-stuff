@@ -1,0 +1,116 @@
+Introduction to Set
+
+- Sets are one of the basic building blocks for the types of objects considered in discrete mathematics.
+
+a set is an onordered collection of objects.
+
+type of sets
+- universal sets
+- empty sets
+- equal sets
+- bussets
+- power set
+- finite & infinite set
+
+Set equality 
+Two sets are equal if and only if they have the same elements.
+
+Subsets
+The set A is a subset of B, if and only if every element of A is also an element of B.
+
+XOR
+
+Symbols
+reverse A = for all
+() = if
+E mlengkung = elements
+-> = then
+<-> = unknown
+0 coret = himpunan kosong
+x = cross
+reverse u = irisan
+u = uniondd
+
+if x element of a then x element of b and exist x (x element of b dan x not element of a)
+
+a = {1,2,3,4,5}
+b = {1,2,3,4,5,6}
+
+Proper subset
+
+Set cardinality
+if there are exaclty n distinct elements n in S where n is nonnegative integer, we say that S is is finite. otherwise it is infinite.
+(Gampange array.length in java or len(varname) in python)
+
+Cartesian product
+The cartesian product of two sets A and B, denoted by A X is the set by ordered paors (q, b) where a E (elements) A and b element B
+
+
+
+
+difference
+let A and B be sets. the difference if a and b, denoted by a - b, is the set containing the elements of a that are not in b, the difference of a and b is also called the complement...
+
+symetric difference
+
+
+exercise
+
+List the members of these sets.
+a) {x | x is a real number such that x2 = 1}
+b) {x | x is a positive integer less than 12}
+c) {x | x is the square of an integer and x < 100}
+d) {x | x is an integer such that x2 = 2}
+
+Use set builder notation to give a description of each of these sets.
+a) {0, 3, 6, 9, 12}
+b) {−3, −2, −1, 0, 1, 2, 3}
+c) {m, n, o, p}
+
+For each of these pairs of sets, determine whether the first is a subset of the second, the
+second is a subset of the first, or neither is a subset of the other.
+a) the set of airline flights from New York to New Delhi, the set of nonstop airline flights
+from New York to New Delhi
+b) the set of people who speak English, the set of people who speak Chinese
+c) the set of flying squirrels, the set of living creatures that can fly
+
+a. {1}
+b. {1,2,3,4,5,6,7,8,9,10,11}
+c. {1,2,3,4,5,6,7,8,9}
+d. {empty set}
+
+a. {x | x = 3n and n element of A, then n >= 0 && n <= 12}
+b. {x | x element of A, then x >= -3 && <= 3}
+c. {x | x is letter in english alphabet and x element of A{m,n,o,p}}
+
+a. a subset of the b
+b. neither set is a subset of the other
+c. a subset of the b
+
+a. equals because every element contains 1, 2, 5
+b. not equals because the first set contain one element and the seccond set contain 2 element although the value is same one.
+c. not equals because the first set is empty set which contain no element and the seccond set contain one element.
+
+a. false. 0 not element of empty set
+b. false. empty set not element the set of containing 0
+c. true The set containing only the element 0 is not a subset of the empty set because it contains an element, which is 0. However, it is a proper subset because it is smaller than the empty set.
+d. true because the empty set is subset of any set
+e. true because set that containing zero is element of the set that containing zero
+f. false because it is subset not proper subset
+g. true because it is subset
+
+A = {mathematic discrit, statistic}
+B = {mr. ahmad, mr. rizky, mr. bagus}
+A X B = {(mathematic discrit, mr. ahmad),(mathematic discrit, mr. rizky),(mathematic discrit, mr.bagus), (statistic, mr.ahmad),(statistic, mr.rizky),(statistic,mr.bagus)}
+
+a. a n b
+b. a - b
+c. a u b
+d. complement of a and b
+
+a. a u b = {1,2,3,4,5,6,7,8}
+b. a n b = {4,5}
+c. {0,6,7,8,9,10}
+d. {1,2,3}
+e. {6,7,8}
+f. {1,2,3,6,7,8}

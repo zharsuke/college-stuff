@@ -1,0 +1,31 @@
+Operation System Structures
+
+Operating system provide an environment for execution of programs and services to programs and users.
+
+one set of operating system services provides functions that are helpful to the user.
+
+user interface - almost all os have a user interface (UI)
+- varies between = cli, GUI, Batch
+
+program execution - the system must be able to load a program tinro memory and to run that program, end execution, either normally or abnormally (indicating error)
+
+i/o operations - a running program may require i/o which may involve a file an i/o device.
+
+one set of operating system service provides functions that are helpful to the user:
+
+- file system manipulation - the file system is of particular interest programs need to read and write files and direcories, create and delete them, search them, list file information, permission management.
+- communications - process may exchange information on the same computer or between computers over a network.
+communications may be via shared memory or through mesasge passing (packets moved by the os).
+- error detection - os needs to be constanly aware of possible errors
+- may occur in the cpu and memory hardware, in i/o devices, in user program.
+- for each type of error, os should take the appropiate action to ensure correct and consistent computing.
+- debugging facilities can greatly enhange the user's and programmer's abbilites to efficiently use the system.
+
+another set of os functions exists for enduring the efficient operations of the system itself via resource sharing.
+- resource allocation - when multiple users or multiple jobs running concurrently, resources must be allocated to each of them.
+- many types of resources - cpu cycles, main memory, file storage, i/o devices- accounting - to keep track of which users use how much and what kinds of computers resources.
+- protection and security - the owners of informatins stored in a multiuser or networked computer system may want to control use of that information, concurrent process should not interfere with each other.
+- protection - involves ensuring that all access to system resources is controlled.
+- security - of the system from outsiders requirs user authentication, extend to defending external i/o devices from invalid access attempts.
+
+

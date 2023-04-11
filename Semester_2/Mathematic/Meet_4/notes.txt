@@ -1,0 +1,55 @@
+meet 4 madafaka
+
+ordered pair
+an ordered pair(x,y) is a single element consisting of a pair of elements in which
+= x is the first element(coordinate)
+= y is the seccond element(coordinate)
+if {a,b} is a set, then {a,b} = {b,a}
+if {a,b} is an ordered pair, then (a,b) not equals (b, a)
+two ordered pair (x,y) and (w,z) will be equal if x = y and z
+
+Cartesian product
+
+the cartesian product of two sets A and B is the set of all ordered pairs(a,b) with a element of A and b element of B
+A X B = {(a,b)|a element of A and b element of B}
+A X B not= B X A
+|A X B| not= |B| X |A|
+example
+a, b
+(a,b),(b,a)
+
+
+relations
+A relation R from set A to set B is a subset of A x B.
+if (a,b) elements R, we say that "a is related to b" and write aRb
+if (a,b) not elemetns R, we say that "a is not related" and write aNotRb
+if A = B, we often say that R is a relation on A
+example
+a, b
+(a,b) not (b,a) karena hanya dihitung identitas saja.
+
+domain & range
+The domain of relation R is the set of all first elements of the ordered pairs which belong to R, denoted by Dom(R)
+the range is the set of seccond elemetns of the ordered pairs which belong to R, denoted by Ran(R)
+example
+A = {1,2,3} and B = {x,y,z}, and consider the relation R = {(1,y), (1,z), (3,y)}
+The domain of R is Dom(R) = {1,3}
+The range of R is Ran(R) = {y,z}
+The codomain of R = {x,y,z}
+
+inverse relations
+let r any relation from set a to b. the inverese of r, denoted by r-1 is the relations from b to a denoted by
+r-1 = {(b,a)|(a,b) element of r}
+
+composition of relations
+suppose a, b, c are sets and
+r is a relation from a to b
+s is a relation from b to c
+then composition of r and s denoted by r little o s, is a relation from a to c defined by
+r little s = {(a,c)|reverse E b elements b, for which (a,b) element r and (b,c) element s}
+
+Symetric relations
+a relation r on a set a is symetric if whenever (a,b) element r then (b,a) element r. thus r is not symetric if there exists a,b element a such that (a,b) element r but (b,a) not element r.
+
+Exercise
+1. 
