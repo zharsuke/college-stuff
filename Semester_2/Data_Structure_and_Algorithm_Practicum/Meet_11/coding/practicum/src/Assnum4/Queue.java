@@ -26,5 +26,4 @@ public class Queue {
     public void print() {
         list.print();
     }
-
 }
