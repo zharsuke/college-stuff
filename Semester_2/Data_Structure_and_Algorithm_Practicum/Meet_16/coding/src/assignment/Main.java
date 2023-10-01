@@ -123,7 +123,7 @@ public class Main {
                             isRemoved = true;
                             break;
                         }
-                    }
+                    }   
                     
                     if (isRemoved) {
                         System.out.println("Data with student ID " + studentId + " has been removed.");
