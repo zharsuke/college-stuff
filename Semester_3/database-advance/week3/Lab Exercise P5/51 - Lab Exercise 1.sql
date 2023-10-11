@@ -4,8 +4,7 @@
 -- Exercise 1
 ---------------------------------------------------------------------
 
-USE TSQL2012;
-GO
+
 
 ---------------------------------------------------------------------
 -- Task 1
@@ -27,7 +26,8 @@ GO
 --
 -- Can you use the alias currentdatetime as the source in the second column calculation (currentdate)? Please explain.
 ---------------------------------------------------------------------
-
+-- SELECT
+	
 
 
 ---------------------------------------------------------------------
@@ -101,4 +101,4 @@ FROM Sales.Somedates;
 ---------------------------------------------------------------------
 -- drop the table 
 
-DROP TABLE Sales.Somedates;
+-- DROP TABLE Sales.Somedates;

@@ -1,0 +1,4 @@
+SELECT
+    CONVERT(DATE, GETDATE()) AS curentdate,
+    CONVERT(DATE, DATEADD(MONTH, DATEDIFF(MONTH, 0, GETDATE()), 0)) AS firstofmonth,
+    EOMONTH(GETDATE()) AS endofmonth;

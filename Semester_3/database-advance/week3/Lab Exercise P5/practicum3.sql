@@ -1,0 +1,5 @@
+SELECT
+    DATEADD(MONTH, 3, GETDATE()) AS threemonths,
+    DATEDIFF(DAY, GETDATE(), DATEADD(MONTH, 3, GETDATE())) AS diffdays,
+    DATEDIFF(WEEK, '1945-08-17', '2018-10-01') AS diffweeks,
+    DATEADD(DAY, 1 - DAY(GETDATE()), GETDATE()) AS firstday;
