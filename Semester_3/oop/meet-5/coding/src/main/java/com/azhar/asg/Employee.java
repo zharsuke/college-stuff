@@ -4,17 +4,35 @@ public class Employee {
     private String nip;
     private String name;
     private String address;
-    private int salary;
 
     public Employee() {
         
     }
 
-    public Employee(String nip, String name, String address, int salary) {
+    public Employee(String nip, String name, String address) {
         this.nip = nip;
         this.name = name;
         this.address = address;
-        this.salary = salary;
+    }
+
+    public void setNip(String nip) {
+        this.nip = nip;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getNip() {
+        return nip;
+    }
+
+    public String getAddress() {
+        return address;
     }
 
     public String getName() {
@@ -22,6 +40,6 @@ public class Employee {
     }
 
     public int getSalary() {
-        return salary;
+        return 0;
     }
 }

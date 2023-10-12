@@ -17,8 +17,10 @@ public class ListSalary {
     }
 
     public void printAllSalary() {
+        System.out.println("==========List Salary of All Employees==========");
         for (int i = 0; i < employee.length; i++) {
-            System.out.println("Salary of " + employee[i].getName() + " is " + employee[i].getSalary());
+            System.out.println("Salary of " + employee[i].getName() + " = " + employee[i].getSalary());
         }
+        System.out.println("================================================");
     }
 }

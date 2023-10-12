@@ -1,16 +1,23 @@
 package com.azhar.asg;
 
-public class Lecture {
+public class Lecture extends Employee {
     private int amountSKS;
     private int ratesSKS;
 
-    public Lecture(int amountSKS, int ratesSKS) {
-        this.amountSKS = amountSKS;
-        this.ratesSKS = ratesSKS;
+    public Lecture() {
+        super();
     }
 
     public void setAmountSKS(int amountSKS) {
         this.amountSKS = amountSKS;
+    }
+
+    public void setRatesSKS(int ratesSKS) {
+        this.ratesSKS = ratesSKS;
+    }
+
+    public int getSalary() {
+        return amountSKS * ratesSKS;
     }
     
 }
