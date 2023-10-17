@@ -1,4 +1,4 @@
-use TSQL20;
+
 --1
 /*Tulislah	 sebuah	 query	 SELECT	 untuk	 menampilkan kolom	 
 productid,	 productname, supplierid,	unitprice dan	kolom	discontinued 
@@ -98,7 +98,7 @@ WHERE categoryid = 1;
 /* Dengan	 menggunakan	 database	 TSQL2012,	 buatlah	 sebuah	 query	 SELECT	 terhadap	
 derived	table (tabel	turunan)	yang	berisi	kolom	productid dan	productname,	
 dengan	filter	hanya	 menampilkan	data	yang	'pricetype'-nya	adalah	'high'.	
-Gunakan	query	SELECT yang	ada	pada	Praktikum	- Bagian 4 – Langkah	1 sebagai	derived	tablenya.	
+Gunakan	query	SELECT yang	ada	pada	Praktikum	- Bagian 4 ï¿½ Langkah	1 sebagai	derived	tablenya.	
 Beri	nama	alias	p terhadap	derived	table tersebut.*/
 SELECT
 p.productid, p.productname
