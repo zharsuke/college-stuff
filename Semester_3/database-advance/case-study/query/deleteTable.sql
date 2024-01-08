@@ -1,0 +1,2 @@
+-- DROP TABLE [dbo].[Produk];
+-- DROP TABLE [dbo].[Pelanggan];

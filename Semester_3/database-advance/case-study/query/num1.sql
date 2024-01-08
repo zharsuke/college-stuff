@@ -1,0 +1,1 @@
+SELECT * FROM Produk WHERE Kategori = 'Pakaian Wanita';

@@ -1,0 +1,2 @@
+SELECT * FROM Produk
+WHERE ID_Produk NOT IN (SELECT DISTINCT ID_Produk FROM Penjualan);
